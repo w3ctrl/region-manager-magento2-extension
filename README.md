@@ -42,16 +42,6 @@ Professional Magento 2 extension by W3CTRL for enhanced store functionality.
 
 ## 📦 Installation
 
-### Via Composer (Recommended)
-
-```bash
-composer require w3ctrl/Region-Manager-Magento-2-Extension
-bin/magento module:enable W3ctrl_*
-bin/magento setup:upgrade
-bin/magento setup:di:compile
-bin/magento cache:flush
-```
-
 ### Manual Installation
 
 1. Download the extension from [W3CTRL.com](https://www.w3ctrl.com)
